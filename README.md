@@ -1,2 +1,4 @@
 # Hello-World-
-New to this.
+New to this. 
+in the readme-edits will have directions.
+enojoy.
